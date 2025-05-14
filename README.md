@@ -1,3 +1,3 @@
 # Dinamica
-QUal sua linguagem de programação favorita?
+Qual sua linguagem de programação favorita?
 
