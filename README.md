@@ -1,2 +1,3 @@
 # Dinamica
-Dinamica para testarmos o git e seus comandos
+QUal sua linguagem de programação favorita?
+
